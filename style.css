@@ -1,0 +1,58 @@
+header{
+    background-color: #8CA7C7;
+}
+
+h1{
+    font-size: 2.5rem;
+    background-color: #8CA7C7;
+    color: white;
+    font-family: 'Staatliches', cursive;
+    background-image: url('logo.png');
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 80px;
+    margin: 0;
+}
+
+body{
+    font-family: 'Verdana', sans-serif
+}
+
+nav{
+    padding: 15px 0;
+    background-color: #E8D0A3;
+}
+
+nav ul{
+    margin: 0;
+    padding: 0;
+}
+
+nav li{
+    display: inline-block;
+    padding-right: 15px;
+}
+
+nav a{
+    color: #C74D59;
+}
+
+p{
+    padding-right: 100px;
+}
+
+.left{
+    float: right;
+}
+
+.wrapper{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+#homeHero{
+    background-image: url("officeHero.jpg");
+    height: 400px;
+    background-size: cover;
+    background-position: 0px -510px;
+}
